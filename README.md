@@ -1,4 +1,5 @@
-# AskNEU - MLOps Project [Team - 18]
+# AskNEU
+## - Collaborative project. Main repository here https://github.com/justin-aj/AskNEU
 
 ## Application live : https://tinyurl.com/askneu
 
